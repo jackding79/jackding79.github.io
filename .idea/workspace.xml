@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:develop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:develop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:develop" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:babel" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab1a7a48-f9e4-45e4-beff-30f554cd8e5b" name="Default Changelist" comment="change title">
+      <change beforePath="$PROJECT_DIR$/test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/avatar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/codes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/emoji.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fonts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/gist.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mathjax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mentions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mermaid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/toasts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/utilities.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/jvm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/file1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/file2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/file3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/并发/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/file1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/file2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/file3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/file1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/file2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/file3.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\java8maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u27c1jYyGOOQ60QEsla92bKNco" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab1a7a48-f9e4-45e4-beff-30f554cd8e5b" name="Default Changelist" comment="" />
+      <created>1623851905999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623851905999</updated>
+      <workItem from="1623851907781" duration="1754000" />
+    </task>
+    <task id="LOCAL-00001" summary="change title">
+      <created>1623855818840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623855818840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change title" />
+    <option name="LAST_COMMIT_MESSAGE" value="change title" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1623856088081">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623856088081" />
+  </component>
+</project>
