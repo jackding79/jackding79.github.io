@@ -64,39 +64,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab1a7a48-f9e4-45e4-beff-30f554cd8e5b" name="Default Changelist" comment="change title">
-      <change beforePath="$PROJECT_DIR$/test/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/avatar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/codes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/emoji.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/fonts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/gist.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/mathjax.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/mentions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/mermaid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/toasts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/utilities.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/jvm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/file1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/file2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/file3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/并发/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/file3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder1/folder2/folder1/file3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/file1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/file2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/file3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/file1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/file2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_long/folder2/folder1/file3.md" beforeDir="false" />
+    <list default="true" id="ab1a7a48-f9e4-45e4-beff-30f554cd8e5b" name="Default Changelist" comment="changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_long/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623851905999</updated>
-      <workItem from="1623851907781" duration="1754000" />
+      <workItem from="1623851907781" duration="1901000" />
     </task>
     <task id="LOCAL-00001" summary="change title">
       <created>1623855818840</created>
@@ -147,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623855818840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes">
+      <created>1623856844712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623856844712</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,12 +143,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change title" />
-    <option name="LAST_COMMIT_MESSAGE" value="change title" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1623856088081">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1623856853717">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623856088081" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623856853717" />
   </component>
 </project>
