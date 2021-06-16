@@ -1,9 +1,9 @@
-# jekyll-rtd-theme
+# notes
 ```tip
 theme origin : jekyll-rtd-theme.rundocs.io
 ```
 ---
-sort: 2
+sort: 1
 ---
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
